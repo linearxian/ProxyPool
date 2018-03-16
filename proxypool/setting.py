@@ -5,7 +5,7 @@ REDIS_HOST = '127.0.0.1'
 REDIS_PORT = 6379
 
 # Redis密码，如无填None
-REDIS_PASSWORD = 123456
+REDIS_PASSWORD = None
 
 REDIS_KEY = 'proxies'
 
